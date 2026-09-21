@@ -435,7 +435,7 @@ Ready-to-use starting points, referenced throughout the sections above — copy 
 - [FAIR Analysis Fundamentals / Open FAIR Certification](https://www.opengroup.org/certifications/openfair) - The Open Group's certification path for the FAIR quantitative risk-analysis model covered under Quantitative Risk Analysis above.
 - [ISO 31000 Risk Manager (PECB)](https://pecb.com/en/education-and-certification-for-individuals/iso-31000) - A practitioner certification built directly on the ISO 31000 standard, covering its principles, framework, and process.
 - [PMI-RMP (Risk Management Professional)](https://www.pmi.org/certifications/risk-management-rmp) - PMI's certification for project-level risk management, useful for practitioners whose risk work is primarily project- rather than enterprise-scoped.
-- [GIAC Enterprise Risk Management (GERM)](https://www.giac.org/certifications/enterprise-risk-management-germ/) - SANS/GIAC's certification for building and running a risk-management program with a security-practitioner orientation.
+- [GIAC Certifications Catalog](https://www.giac.org/certifications/) - SANS/GIAC's full certification catalog; search it for current risk-management-oriented offerings, since specific certification URLs and names change as GIAC's catalog evolves.
 
 ---
 
