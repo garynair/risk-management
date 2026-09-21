@@ -1,6 +1,6 @@
 # Compensating Control Worksheet
 
-Complete one worksheet per compensating control. Modelled on the rigor of PCI-DSS's own Compensating Controls Worksheet, generalised for any framework.
+Complete one worksheet per compensating control. Modeled on the rigor of PCI-DSS's own Compensating Controls Worksheet, generalized for any framework.
 
 ## 1. Identification
 

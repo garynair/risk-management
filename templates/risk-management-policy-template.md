@@ -9,7 +9,7 @@
 
 ## 1. Purpose
 
-State why this policy exists and what it governs — typically, establishing the authority, scope, and structure of the organisation's risk-management programme.
+State why this policy exists and what it governs — typically, establishing the authority, scope, and structure of the organization's risk-management program.
 
 ## 2. Scope
 
@@ -20,7 +20,7 @@ State why this policy exists and what it governs — typically, establishing the
 ## 3. Methodology
 
 - **Adopted framework:** (e.g., ISO 31000, COSO ERM, or a stated hybrid)
-- **Risk assessment process:** identify -> analyse -> evaluate -> treat -> monitor -> communicate (or your adapted cycle)
+- **Risk assessment process:** identify -> analyze -> evaluate -> treat -> monitor -> communicate (or your adapted cycle)
 - **Scoring scales:** reference the risk-heatmap-scoring-guide template rather than restating the scales here, so the two documents cannot drift out of sync.
 - **Qualitative vs. quantitative analysis triggers:** state which risk tiers require full FAIR/quantitative analysis versus qualitative scoring only.
 
@@ -59,11 +59,11 @@ List your top-level risk categories (typically 6-8): e.g., Strategic, Operationa
 
 ## 10. Review Cadence
 
-State the mandatory review frequency for each artefact (reference the periodic-review-checklist template):
+State the mandatory review frequency for each artifact (reference the periodic-review-checklist template):
 - Risk register: quarterly minimum.
 - Risk appetite statement: annually, or after material strategic change.
 - This policy: annually.
-- Independent programme assurance (internal audit): annually.
+- Independent program assurance (internal audit): annually.
 
 ## 11. Exceptions
 

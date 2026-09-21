@@ -1,6 +1,6 @@
 # Risk Heat Map Scoring Guide
 
-Adapt the scale anchors and colour-band cut points to your own risk appetite statement before using this in a live programme — the numbers below are a reasonable, common starting point, not a universal standard.
+Adapt the scale anchors and color-band cut points to your own risk appetite statement before using this in a live program — the numbers below are a reasonable, common starting point, not a universal standard.
 
 ## Likelihood Scale
 
@@ -14,7 +14,7 @@ Adapt the scale anchors and colour-band cut points to your own risk appetite sta
 
 ## Impact Scale
 
-| Score | Label | Anchor Definition (adapt figures to your organisation's size) |
+| Score | Label | Anchor Definition (adapt figures to your organization's size) |
 |---|---|---|
 | 1 | Negligible | No material financial loss; no regulatory or reputational impact. |
 | 2 | Minor | Financial loss under [$X]; contained, no external disclosure required. |
@@ -32,7 +32,7 @@ Adapt the scale anchors and colour-band cut points to your own risk appetite sta
 | **2 - Unlikely** | 2 | 4 | 6 | 8 | 10 |
 | **1 - Rare** | 1 | 2 | 3 | 4 | 5 |
 
-## Suggested Colour Bands
+## Suggested Color Bands
 
 Set these cut points to match your documented risk appetite thresholds, not an arbitrary even split:
 

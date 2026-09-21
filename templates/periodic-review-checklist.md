@@ -20,10 +20,10 @@ Use this alongside the risk register and heat map. Check off each item at the st
 
 ## Semi-Annually (6 Months)
 
-- [ ] Risk appetite and tolerance statements reassessed against strategic or organisational changes.
+- [ ] Risk appetite and tolerance statements reassessed against strategic or organizational changes.
 - [ ] Gap analysis re-run against medium-priority frameworks or internal policy requirements.
 - [ ] Third-party/vendor risk tiering refreshed for vendors below the highest-criticality tier.
-- [ ] RACI matrix reviewed, especially after any organisational restructuring.
+- [ ] RACI matrix reviewed, especially after any organizational restructuring.
 
 ## Annually
 
@@ -31,12 +31,12 @@ Use this alongside the risk register and heat map. Check off each item at the st
 - [ ] Scoring scales (likelihood/impact anchors) reviewed and recalibrated if drifted from actual usage.
 - [ ] Risk appetite statements formally reassessed and re-approved by the board/executive sponsor.
 - [ ] Full gap analysis run against the highest-priority control baseline(s).
-- [ ] Independent (internal audit) assurance review of the risk-management programme completed.
+- [ ] Independent (internal audit) assurance review of the risk-management program completed.
 - [ ] Risk management policy reviewed and re-approved.
 - [ ] Highest-criticality third-party/vendor relationships fully reassessed, including fresh due diligence.
 
 ## Event-Driven (Run Regardless of Calendar)
 
 - [ ] Material incident, breach, or significant near-miss triggers an out-of-cycle register review.
-- [ ] Major organisational change (M&A, new product line, new regulatory obligation, major system migration) triggers a taxonomy and appetite review.
+- [ ] Major organizational change (M&A, new product line, new regulatory obligation, major system migration) triggers a taxonomy and appetite review.
 - [ ] Any compensating control approaching its stated expiry date triggers a re-justification review before expiry.
