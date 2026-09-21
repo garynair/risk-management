@@ -1,0 +1,14 @@
+Activity,First Line (Business/Operational Owner),Second Line (Risk/Compliance Function),Third Line (Internal Audit),Executive/Board
+Identify new risk,R,C,I,I
+Score risk (likelihood/impact),C,R/A,I,I
+Approve risk treatment decision (Low/Medium),A,R,I,I
+Approve risk treatment decision (High/Critical),C,R,I,A
+Implement control,R,C,I,I
+Test control effectiveness,I,R,C,I
+Approve compensating control,C,A,I,I
+Update risk register entry,R,A,I,I
+Set/revise KRI thresholds,C,R/A,I,I
+Prepare quarterly risk report,C,R,I,I
+Independent assurance review of programme,I,I,R/A,I
+Approve risk appetite statement,C,C,I,A
+Approve risk management policy,C,R,C,A
