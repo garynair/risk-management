@@ -464,6 +464,11 @@ Ready-to-use starting points, referenced throughout the sections above — copy 
 - [IT Audit & Controls](https://github.com/garynair/it-audit-controls) - A companion curated list covering COBIT, COSO Internal Control, and ITGC/ITAC — the internal-controls and audit-testing discipline closely related to, but distinct from, the risk-analysis method in this list.
 - [Federal Compliance](https://github.com/garynair/federal-compliance) - A companion curated list covering FedRAMP, CMMC, and NIST SP 800-53/37 — including the POA&M artifact, the federal-sector-specific version of this list's Gap Analysis and Risk Register sections.
 - [FinServ Compliance](https://github.com/garynair/finserv-compliance) - A companion curated list covering GLBA/FFIEC, NYDFS 500, and SR 26-2 model risk management — the financial-sector regulatory context this list's methodology is often run underneath.
+- [VAPT](https://github.com/garynair/vapt) - A companion curated list covering penetration testing methodology and free tools (Nmap, Nessus, Burp, Metasploit) for validating the controls in this list.
+- [Privacy Compliance](https://github.com/garynair/privacy) - A companion curated list covering GDPR, CCPA/CPRA, and the US state privacy patchwork — the privacy-specific obligations that run alongside these requirements.
+- [Cloud Security](https://github.com/garynair/cloud-security) - A companion curated list covering the shared responsibility model, AWS/Azure/GCP-specific security, and SOC 2 — the cloud-specific implementation layer for these controls.
+- [Incident Response & BCP/DR](https://github.com/garynair/ir-bc-dr) - A companion curated list covering incident response planning, playbooks, tabletop exercises, and BIA-driven disaster recovery.
+- [AI Governance](https://github.com/garynair/ai-governance) - A companion curated list covering AI-specific governance, regulation, and runtime controls for autonomous agents (NIST AI RMF, EU AI Act, ISO 42001).
 
 ---
 
